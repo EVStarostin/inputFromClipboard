@@ -1,4 +1,4 @@
-# inputFromClipboard
+# inputTextFromClipboard
 console app on c++ for copying text from clipboard
 
 Compiler https://sourceforge.net/projects/mingw-w64/files/latest/download  
